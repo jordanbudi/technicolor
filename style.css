@@ -1,0 +1,9 @@
+body{
+    background-image: url("images/memphis-colorful.png");
+    text-align: center;
+}
+
+h1{
+    font-family: 'Gravitas One', cursive;
+    font-size: 3em;
+}
